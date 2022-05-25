@@ -1,0 +1,11 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "桔夕网络  UI库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cycweeds",
+  "license": "MIT"
+}
