@@ -4,6 +4,10 @@
   "description": "安云智创 UI组件",
   "main": "index.js",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cycweeds/UIComponent.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
