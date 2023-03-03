@@ -1,21 +1,15 @@
 {
-  "name": "@juxi/ui",
-  "version": "1.0.1",
-  "description": "桔夕网络  UI库",
+  "name": "@ac/uicomponent",
+  "version": "1.0.0",
+  "description": "安云智创 UI组件",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "jest": {
-    "preset": "react-native"
-  },
-  "dependencies": {
-    "react": "17.0.2",
-    "react-native": "0.68.2"
-  },
-  "devDependencies": {
-    "jest": "^28.1.0"
-  },
-  "author": "cycweeds",
+  "keywords": [
+    "ac"
+  ],
+  "author": "cycweeds <cycweeds@gmail.com>",
   "license": "MIT"
 }

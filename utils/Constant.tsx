@@ -6,8 +6,8 @@ export const kScreenWidth = Dimensions.get('window').width;
 export const kScreenHeight = Dimensions.get('window').height;
 export const kScale =  Dimensions.get('window').scale;
 
-export const kMarin = 8;
 
+export const platform = Platform.OS;
 
 export function isIOS() {
     return Platform.OS === 'ios'
